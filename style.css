@@ -250,49 +250,7 @@ div.accordion{ display: none; }
 
 
 @media screen and (min-width: 1200px){
-    .responsivo{overflow: hidden;}
-    .fotop{display: none;}
-    .alinhar{display: inline-block;}
-    .texts{padding: 50px;}
-    .topot{width: 280px;}
-    .pqfaq{width: 50%;}
-    section.faq{width: 50%}
-    .garantia{margin-right: 290px;}
-    .footer2{ margin-left: -100px; margin-top: 50px; width: 500px;}
-    .contatenos{margin-right: 80px;}
-    .respfaq{padding: 5px; width: 400px;}
-    .video-container{display: none;}
-    .base-bg{margin-left: 130px; text-align: center; padding-top: 20px;}
-    .whatsapp{width: 150px;}
-    .menu{
-        margin-left: -100%;
-        transition: all .4s;
-        display: block
-    }
-    .video-mobile{
-        display: block;
-    }
-    .footer{
-        width: 400px;
-
-    }
-    .formulario1{
-        width: 450px;
-    }
-    label[for="bt_menu"]{
-        display: block;
-    }
-    #bt_menu:checked ~ .menu{
-        margin-left: 0;
-    }
-    .menu ul li{
-        width: 100%;
-        float:none;
-    }
-    .mimg{width: 150px; margin-right: 120px;}
-    .desconto{margin-left: 250px;}
-    .depoimentos{width: 440px; margin-right: 500px; padding: -100px;}
-}
+    
 }
 
 
